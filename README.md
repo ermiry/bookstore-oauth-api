@@ -1,1 +1,3 @@
-bookstore-oauth-api
+# Bookstore OAuth API
+
+Bookstore OAuth API Service
